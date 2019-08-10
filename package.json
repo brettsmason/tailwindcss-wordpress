@@ -1,0 +1,17 @@
+{
+  "name": "tailwindcss-wordpress",
+  "version": "0.1.0",
+  "description": "Tailwind CSS plugin for WordPress specific utility classes.",
+  "main": "index.js",
+  "repository": "git@github.com:brettsmason/tailwindcss-wordpress.git",
+  "author": "Brett Mason <brettsmason@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwindcss-plugin"
+  ],
+  "devDependencies": {
+    "lodash": "^4.17.15"
+  }
+}
