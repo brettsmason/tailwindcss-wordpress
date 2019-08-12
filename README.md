@@ -14,10 +14,10 @@ This plugin currently includes:
 
   ```bash
   # Using npm
-  npm install tailwindcss-wordpress --save-dev
+  npm install @brettsmason/tailwindcss-wordpress --save-dev
 
   # Using Yarn
-  yarn add tailwindcss-wordpress -D
+  yarn add @brettsmason/tailwindcss-wordpress -D
   ```
 
 2. Add it to your `tailwind.config.js` file:
@@ -27,7 +27,7 @@ This plugin currently includes:
   module.exports = {
     // ...
     plugins: [
-      require('tailwindcss-wordpress')
+      require('@brettsmason/tailwindcss-wordpress')
     ]
   }
   ```
