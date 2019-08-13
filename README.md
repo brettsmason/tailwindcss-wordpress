@@ -1,6 +1,6 @@
 # Tailwind CSS WordPress Utility Classes
 
-Tailwind CSS plugin for WordPress specific utility classes.
+Tailwind CSS plugin for generating WordPress utility classes.
 
 This plugin currently includes:
 
@@ -50,7 +50,7 @@ This plugin uses the keys `editorColorPalette` and `editorFontSizes` in your Tai
     },
   },
   plugins: [
-    require('tailwindcss-wordpress')(),
+    require('@brettsmason/tailwindcss-wordpress')(),
   ],
 }
 ```

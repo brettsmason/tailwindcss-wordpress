@@ -1,5 +1,5 @@
 {
-  "name": "tailwindcss-wordpress",
+  "name": "@brettsmason/tailwindcss-wordpress",
   "version": "0.1.0",
   "description": "Tailwind CSS plugin for WordPress specific utility classes.",
   "main": "index.js",
@@ -9,7 +9,8 @@
   "keywords": [
     "tailwind",
     "tailwindcss",
-    "tailwindcss-plugin"
+    "tailwindcss-plugin",
+    "wordpress"
   ],
   "devDependencies": {
     "lodash": "^4.17.15"
