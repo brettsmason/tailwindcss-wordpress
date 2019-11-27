@@ -4,7 +4,7 @@ Tailwind CSS plugin for generating WordPress utility classes.
 
 This plugin currently includes:
 
-- Editor Color Palette classes (`.has-[color]-text-color` and `.has-[color]-background-class`)
+- Editor Color Palette classes (`.has-[color]-text-color` and `.has-[color]-background-color`)
 - Editor Font Size classes (`.has-[size]-font-size`)
 - `.screen-reader-text` - WordPress specific accessibility class
 
